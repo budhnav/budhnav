@@ -34,7 +34,7 @@
 
 <a href="https://dev.to/ghanshyam32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghanshyam32" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/ghanshyam-mishra-83949a124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanshyam-mishra-83949a124/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navya-budhraja-555061209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanshyam-mishra-83949a124/" height="30" width="40" /></a>
 
 <a href="https://fb.com/profile.php?id=100010794042651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010794042651" height="30" width="40" /></a>
 
