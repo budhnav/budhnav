@@ -1,10 +1,10 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+![MasterHead](https://storeassets.im-cdn.com/media-manager/digital360/xnwOoYZNQE2rDi3TltK2_Mern.jpg)
 
 <h1 align="center">Hi 👋, I'm Navya Budhraja</h1>
 
 <h3 align="center">A passionate Frontend Developer  from India</h3>
 
-<img align="right" alt="Coding" width="350" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrendxtech.myinstamojo.com%2Fproduct%2F3436304%2Fmern-stack-developer-course%2F&psig=AOvVaw2KEEhWyQLMpvADQDDPCBPd&ust=1706068559108000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCS3-zO8oMDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 
